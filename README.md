@@ -30,7 +30,7 @@ Quiz WebApp that access trivia questions from the [Open Trivia Database API](htt
 ### Links
 
 - Solution URL: [@GitHub](https://github.com/Abd-Elhadi/Quiz-Game-App)
-- Live Site URL: [@Nelify](https://github.com/Abd-Elhadi/Quiz-Game-App)
+- Live Site URL: [@Nelify](https://quiz-app-aom.netlify.app/)
 
 ## ⚒️ Built with:
 - HTML5
