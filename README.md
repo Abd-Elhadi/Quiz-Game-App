@@ -31,6 +31,7 @@ Quiz WebApp that access trivia questions from the [Open Trivia Database API](htt
 
 - Solution URL: [@GitHub](https://github.com/Abd-Elhadi/Quiz-Game-App)
 - Live Site URL: [@Nelify](https://quiz-app-aom.netlify.app/)
+- Figma Design: [@Figma](https://www.figma.com/file/5GlVdHfKp90vVX1o8ynlws/Quizzical-App-(Copy)?type=design&node-id=0-1&t=veSR1mviBfCD5OV4-0)
 
 ## ⚒️ Built with:
 - HTML5
