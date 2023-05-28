@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Quiz Game App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Quiz WebApp that access trivia questions from the [Open Trivia Database API](https://opentdb.com/) and score players based on their answers..
 
 ## Available Scripts
 
@@ -29,42 +29,60 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Table of contents
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [Overview](#overview)
+  - [The Challenge](#The-Challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [Technologies Used](#built-with)
+- [My process](#my-process)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Overview
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### The challenge
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- State management 
 
-## Learn More
+### Screenshot
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![screenshot](/public/assets/screenshots/screenshot-01.png)
+![screenshot](/public/assets/screenshots/screenshot-02.png)
+![screenshot](/public/assets/screenshots/screenshot-03.png)
+![screenshot](/public/assets/screenshots/screenshot-04.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Links
 
-### Code Splitting
+- Solution URL: [@GitHub](https://github.com/Abd-Elhadi/Quiz-Game-App)
+- Live Site URL: [@Nelify](https://github.com/Abd-Elhadi/Quiz-Game-App)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## ⚒️ Built with:
+- HTML5
+- CSS3
+- JavaScript
+- [React](https://reactjs.org/) - JS library
 
-### Analyzing the Bundle Size
+## My process
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### What I learned
 
-### Making a Progressive Web App
+React basics like:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Event listeners
+- State
+- Conditional rendering
+- Side effects
 
-### Advanced Configuration
+### Continued development
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+I'd like to:
 
-### Deployment
+- Store the highest score on local storage
+- Responsive layout for all screens
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Author
+[Abdelhadi Omar](mailto:abdelhadioumar@gmail.com?subject=[GitHub]%20Tenzies%20Game)
