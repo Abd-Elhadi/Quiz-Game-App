@@ -57,4 +57,4 @@ I'd like to:
 - Responsive layout for all screens
 
 ## Author
-[Abdelhadi Omar](mailto:abdelhadioumar@gmail.com?subject=[GitHub]%20Tenzies%20Game)
+[Abdelhadi Omar](mailto:abdelhadioumar@gmail.com?subject=[GitHub]%20Quiz%20App)
